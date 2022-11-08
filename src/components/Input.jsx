@@ -8,25 +8,25 @@ const Input = () => {
     e.preventDefault();
 
     // Check if the field has a value
-    if (contactUser.value === "") {
+    if (contactUser?.value === "") {
       // Add and remove color
-      contactMessage.classList.remove("color-green");
-      contactMessage.classList.add("color-red");
+      contactMessage?.classList.remove("color-green");
+      contactMessage?.classList.add("color-red");
       // Show message
       contactMessage.textContent = "You must enter your email! 😉";
       // Remove message after 3 seconds
-      setTimeout(() => {
-        contactMessage.textContent = "";
-      }, 3000);
+      // setTimeout(() => {
+      //   contactMessage.textContent = "";
+      // }, 3000);
     } else {
       // Show message and add color
-      contactMessage.classList.add("color-green");
+      contactMessage?.classList.add("color-green");
       contactMessage.textContent = "You registered successfully! 💪";
 
       // Remove message after 3 seconds
-//       setTimeout(() => {
-//         contactMessage.textContent = "";
-//       }, 3000);
+      // setTimeout(() => {
+      //   contactMessage.textContent = "";
+      // }, 3000);
 
       // To clear the input field
       contactUser.value = "";
