@@ -24,9 +24,9 @@ const Input = () => {
       contactMessage.textContent = "You registered successfully! 💪";
 
       // Remove message after 3 seconds
-      setTimeout(() => {
-        contactMessage.textContent = "";
-      }, 3000);
+//       setTimeout(() => {
+//         contactMessage.textContent = "";
+//       }, 3000);
 
       // To clear the input field
       contactUser.value = "";
