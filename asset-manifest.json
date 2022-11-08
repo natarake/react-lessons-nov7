@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-lessons-nov7/static/css/main.13800c82.css",
+    "main.js": "/react-lessons-nov7/static/js/main.170dea78.js",
+    "static/media/onepiece.jpg": "/react-lessons-nov7/static/media/onepiece.81fc9baefdccac08ebc7.jpg",
+    "static/media/dbz.jpg": "/react-lessons-nov7/static/media/dbz.34a2e93a6448c07718f2.jpg",
+    "static/media/jujutsu.jpg": "/react-lessons-nov7/static/media/jujutsu.52e037a782520ff0c6ff.jpg",
+    "static/media/naruto.jpg": "/react-lessons-nov7/static/media/naruto.2d875990ecec26c9b227.jpg",
+    "static/media/aot.jpg": "/react-lessons-nov7/static/media/aot.83075c122b48fa6aebe4.jpg",
+    "static/media/shaman.jpg": "/react-lessons-nov7/static/media/shaman.1c7d1f3af24bf71215f0.jpg",
+    "static/media/bleach.jpg": "/react-lessons-nov7/static/media/bleach.c2350e85e3552ce452e9.jpg",
+    "index.html": "/react-lessons-nov7/index.html",
+    "main.13800c82.css.map": "/react-lessons-nov7/static/css/main.13800c82.css.map",
+    "main.170dea78.js.map": "/react-lessons-nov7/static/js/main.170dea78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13800c82.css",
+    "static/js/main.170dea78.js"
+  ]
+}
